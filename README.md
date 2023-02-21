@@ -1,8 +1,6 @@
 <div align="center" >
-
 # **Computational Genomics Programming Assignment (CSE4065)** 
 <br>
-<hr>
 </div>
 
 In this assignment, we search for motifs, and try to find the consensus string.
